@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LRU {
+public class FIFO_OPR {
 
     // ---------- FIFO Algorithm ----------
     public static int fifoPageReplacement(int[] pages, int numFrames) {
