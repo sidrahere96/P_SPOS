@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class prac5 {
+public class LRU {
 
     // ---------- FIFO Algorithm ----------
     public static int fifoPageReplacement(int[] pages, int numFrames) {
