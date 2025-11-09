@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PageReplacement",
+            "request": "launch",
+            "mainClass": "page_replacement.PageReplacement",
+            "projectName": "P_SPPOS_ea4cc869"
+        },
+        {
+            "type": "java",
             "name": "practical3",
             "request": "launch",
             "mainClass": "macro.practical3",
