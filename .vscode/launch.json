@@ -1,0 +1,47 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "practical3",
+            "request": "launch",
+            "mainClass": "macro.practical3",
+            "projectName": "P_SPPOS_ea4cc869"
+        },
+        {
+            "type": "java",
+            "name": "LRU",
+            "request": "launch",
+            "mainClass": "LRU",
+            "projectName": "P_SPPOS_ea4cc869"
+        },
+        {
+            "type": "java",
+            "name": "JNI",
+            "request": "launch",
+            "mainClass": "JNI",
+            "projectName": "P_SPPOS_ea4cc869"
+        },
+        {
+            "type": "java",
+            "name": "PageReplacementGantt",
+            "request": "launch",
+            "mainClass": "PageReplacementGantt",
+            "projectName": "P_SPPOS_ea4cc869"
+        },
+        {
+            "type": "java",
+            "name": "prac5",
+            "request": "launch",
+            "mainClass": "prac5",
+            "projectName": "P_SPPOS_ea4cc869"
+        },
+        {
+            "type": "java",
+            "name": "practical3",
+            "request": "launch",
+            "mainClass": "practical3",
+            "projectName": "P_SPPOS_ea4cc869"
+        },
+        {}
+    ]
+}
